@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <em>Sim, praticamente todos os links estão desativos. Prometo um dia ativar todos!</em>
+  <em>Sim, praticamente todos os links estão desativados. Prometo um dia ativar todos!</em>
 </div>
 
 ## Minhas habilidades
