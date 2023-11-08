@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-- 👨‍💻 Atualmente sou freelancer de front-end.
+- 👨‍💻 Sou desenvolvedor Full Stack focado em Front End.
 - 🎓 Estou estudando ReactJS, UI e PHP.
 - :octocat: Por aqui posto os projetos que faço para fins de estudo.
 
